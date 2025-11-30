@@ -13,7 +13,7 @@ It demonstrates essential digital design and FPGA bring-up skills including:
 
 ---
 
-## 🔧 Features
+## Features
 - Adds two 4-bit BCD digits (0–9)  
 - Corrects sums exceeding 9 using +6 correction  
 - Cascadable carry-out for multi-digit addition  
@@ -36,7 +36,7 @@ BCD_Adder/
 
 ---
 
-## 🧠 RTL Design Summary
+## RTL Design Summary
 
 The BCD adder is implemented in three stages:
 
@@ -71,7 +71,7 @@ This allows chaining multiple BCD adders for multi-digit addition.
 
 ---
 
-## 🧪 Simulation (ModelSim)
+## Simulation (ModelSim)
 
 Run the automated simulation from the `sim/` directory:
 
@@ -89,7 +89,7 @@ Waveforms may be viewed in ModelSim/QuestaSim.
 
 ---
 
-## 🔬 FPGA Bring-Up Procedure
+## FPGA Bring-Up Procedure
 
 1. Compile the project in **Quartus Prime**  
 2. Apply proper pin assignments using the `.qsf` file  
@@ -101,7 +101,7 @@ Waveforms may be viewed in ModelSim/QuestaSim.
 
 ---
 
-## 🧩 Skills Demonstrated
+## Skills Demonstrated
 - RTL design (VHDL/Verilog)  
 - Testbench creation and waveform analysis  
 - FPGA synthesis and implementation  
@@ -112,5 +112,4 @@ Waveforms may be viewed in ModelSim/QuestaSim.
 
 ---
 
-Place screenshots, timing reports, and waveform captures in the `docs/` folder.
 
