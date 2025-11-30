@@ -115,4 +115,4 @@ Waveforms may be viewed in ModelSim/QuestaSim.
 
 ---
 
-Place screenshots, timing reports, oscilloscope/Saleae captures, and block diagrams in the `docs/` folder.
+
