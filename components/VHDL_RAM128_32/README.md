@@ -10,13 +10,6 @@ Includes RTL, testbench, ModelSim simulation scripts, and documentation.
 - Testbench with read/write verification
 - Simulation-ready using ModelSim or GHDL
 
-## Directory Structure
-components/VHDL_RAM128_32/
-│
-├── rtl/       # RTL source (ram128x32.vhd)
-├── tb/        # Testbench files
-├── sim/       # Simulation scripts
-└── docs/      # Waveforms, screenshots, notes
 # Usage
 
 To use the RAM module in an FPGA design:
